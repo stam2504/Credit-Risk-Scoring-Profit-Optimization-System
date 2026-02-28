@@ -12,4 +12,4 @@ This project presents an end-to-end **Credit Risk Scoring System** designed to e
 * **Stability:** Achieved a **PSI of 0.0101**, indicating a highly stable model.
 
 ## 📊 Dashboard Preview
-![Dashboard](CreditRiskScoringDashboard.png)
+![Dashboard](dashboard.png)
