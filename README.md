@@ -1,4 +1,4 @@
-# Credit-Risk-
+# Credit Risk Scoring System
 An end-to-end Credit Risk Scoring system using Logistic Regression and Power BI to optimize bank profitability.
 # Credit Risk Scoring & Profit Optimization System
 
